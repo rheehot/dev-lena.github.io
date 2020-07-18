@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "바다와 나비"
+title                    : "Lena's Lab"
 title_separator          : "-"
-subtitle                 : "도전과 경험 그리고 순수한 질문"# site tagline that appears below site title in masthead
+subtitle                 : "iOS Programming"# site tagline that appears below site title in masthead
 name                     : "Lena"
 description              : "도전과 학습, 생각을 기록합니다"
 url                      : "https://github.com/dev-Lena"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/lena_profile_image.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/ios_wallpaper"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/lena_profile_image_with_mac.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Lena"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "여행과 기획을 좋아하는 iOS 개발자입니다 🥳"
+  bio              : "여행과 새로운 걸 좋아하는 iOS 개발자입니다 🥳"
   location         : "Seoul, Korea"
   email            :
   links:
@@ -118,15 +118,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/devlena.lee.7"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dev-Lena"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "dlrmssk02@naver.com"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/devlena.lee.7"
 
 
 # Reading Files
